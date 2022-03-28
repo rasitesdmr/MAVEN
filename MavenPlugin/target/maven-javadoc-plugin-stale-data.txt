@@ -1,0 +1,48 @@
+@options
+@argfile
+-encoding
+'Cp1254'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/mrasi/Desktop/MavenPlugin/MavenPlugin/src/main/java'
+-html5
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/mrasi/Desktop/MavenPlugin/MavenPlugin/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MavenPlugin 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'MavenPlugin 1.0-SNAPSHOT API'
+'C:/Users/mrasi/Desktop/MavenPlugin/MavenPlugin/src/main/java/HelloWorld.java'
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\src\main\java\HelloWorld.java = 1646160290178
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\src\main\java = 1646160290180
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\allclasses-index.html = 1646160824454
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\allpackages-index.html = 1646160824463
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\element-list = 1646160824372
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\HelloWorld.html = 1646160824370
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\help-doc.html = 1646160824525
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\index-all.html = 1646160824510
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\index.html = 1646160824514
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\jquery-ui.overrides.css = 1646160824600
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\member-search-index.js = 1646160824483
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\module-search-index.js = 1646160824470
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\overview-tree.html = 1646160824425
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\package-search-index.js = 1646160824472
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\package-summary.html = 1646160824387
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\package-tree.html = 1646160824399
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\package-use.html = 1646160824420
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\script.js = 1646160824538
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\search.js = 1646160824542
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\stylesheet.css = 1646160824532
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\tag-search-index.js = 1646160824490
+C:\Users\mrasi\Desktop\MavenPlugin\MavenPlugin\target\apidocs\type-search-index.js = 1646160824480
